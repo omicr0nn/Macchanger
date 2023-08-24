@@ -1,5 +1,5 @@
 # Macchanger
-developed by omicron
+</> developed by omicron
 
 ### I suggest you to use Kali linux. It also works on Windows.
 
