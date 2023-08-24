@@ -1,7 +1,7 @@
 # Macchanger
 developed by omicron
 
-## Kali linxuda kullanmanızı öneririrm. Windowsda da çalışır. 
+### I suggest you to use Kali linux. It also works on Windows.
 
 # Usage!
 
