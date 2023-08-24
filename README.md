@@ -5,7 +5,7 @@ developed by omicron
 
 # Usage!
 
-git clone 
+git clone https://github.com/omicr0nn/Macchanger
 
 cd Macchanger
 
