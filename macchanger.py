@@ -4,8 +4,28 @@
 import os
 import sys
 import time
+from os import system
 
-os.system("clear")
+system("cls||clear")
+def rainbow_text(text, delay=0.1):
+    colors = [
+    "\033[31m", "\033[33m", "\033[32m", "\033[36m", "\033[34m", "\033[35m", "\033[37m",
+    ]
+
+    for i in range(len(text)):
+        char = text[i]
+        color = colors[i % len(colors)]
+        sys.stdout.write(color + char)
+        sys.stdout.flush()
+        time.sleep(delay)
+
+    sys.stdout.write("\033[0m")
+    sys.stdout.write("\n")
+	
+if __name__ == "__main__":
+    rainbow_text("Coding by Omicron")
+	    
+system("cls||clear")
 os.system("figlet MAC Degistirme")
 print("""
 MAC Adres Değiştirme Programına Hoş Geldiniz / omicr0n 
