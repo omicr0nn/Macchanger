@@ -3,23 +3,8 @@
 # coding by omicr0n
 import os
 import sys
+import time
 
-text = "Coding by Omicron"
-
-colors = ["\033[31m", "\033[33m", "\033[32m", "\033[36m", "\033[34m", "\033[35m", "\033[37m"]
-
-while True:
-    print("\n" + "\033[35m=" * 60)
-    print("\033[35mMatematik ve Fizik Hesap Makinesi".center(60))
-    print("\033[35m=" * 60)
-
-    for i in range(len(text)):
-        char = text[i]
-        color = colors[i % len(colors)]  # Renkleri döngüsüz uygulama
-        sys.stdout.write(color + char)
-        sys.stdout.flush()
-        time.sleep(0.1)
-	    
 os.system("clear")
 os.system("figlet MAC Degistirme")
 print("""
