@@ -1,7 +1,7 @@
 # Macchanger
 </> developed by omicron
 
-### I suggest you to use Kali linux. It also works on Windows.
+### I suggest you to use Kali linux.
 
 # Usage!
 
