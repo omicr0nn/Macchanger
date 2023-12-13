@@ -22,7 +22,7 @@ cd Macchanger
 python macchanger.py
 ```
 
-![Kali](https://i.imgur.com/z1ptVR5.png)
+![Kali](https://i.imgur.com/AKbHFCx.png)
 
 # With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
