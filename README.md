@@ -1,15 +1,24 @@
-# Macchanger
-</> developed by omicron
+# MAC Address Changer
 
-### I suggest you to use Kali linux.
+This Python script allows you to change your MAC address on a Kali Linux system. It provides options to set the MAC address to random, manually specify a new MAC address, or restore the original MAC address.
 
-# Usage!
+## Features
 
-git clone https://github.com/omicr0nn/Macchanger
+- Set MAC address to random
+- Manually specify a new MAC address
+- Restore the original MAC address
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/omicr0nn/Macchanger
 
 cd Macchanger
 
 python macchanger.py
+
 
 # With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
